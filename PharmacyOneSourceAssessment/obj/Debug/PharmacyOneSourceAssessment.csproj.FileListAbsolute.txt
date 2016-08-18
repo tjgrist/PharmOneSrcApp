@@ -1,0 +1,12 @@
+C:\Users\tjgrs\projects\visualstudio\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\bin\Debug\PharmacyOneSourceAssessment.exe.config
+C:\Users\tjgrs\projects\visualstudio\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\bin\Debug\PharmacyOneSourceAssessment.exe
+C:\Users\tjgrs\projects\visualstudio\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\bin\Debug\PharmacyOneSourceAssessment.pdb
+C:\Users\tjgrs\projects\visualstudio\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\obj\Debug\PharmacyOneSourceAssessment.csprojResolveAssemblyReference.cache
+C:\Users\tjgrs\projects\visualstudio\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\obj\Debug\PharmacyOneSourceAssessment.exe
+C:\Users\tjgrs\projects\visualstudio\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\obj\Debug\PharmacyOneSourceAssessment.pdb
+C:\Users\tjgrs\Desktop\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\bin\Debug\PharmacyOneSourceAssessment.exe.config
+C:\Users\tjgrs\Desktop\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\obj\Debug\PharmacyOneSourceAssessment.exe
+C:\Users\tjgrs\Desktop\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\obj\Debug\PharmacyOneSourceAssessment.pdb
+C:\Users\tjgrs\Desktop\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\bin\Debug\PharmacyOneSourceAssessment.exe
+C:\Users\tjgrs\Desktop\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\bin\Debug\PharmacyOneSourceAssessment.pdb
+C:\Users\tjgrs\Desktop\PharmacyOneSourceAssessment\PharmacyOneSourceAssessment\obj\Debug\PharmacyOneSourceAssessment.csprojResolveAssemblyReference.cache
